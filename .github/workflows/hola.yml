@@ -4,4 +4,4 @@ jobs:
   saludo:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hola desde GitHub"
+      - run: echoo "Hola desde GitHub"
